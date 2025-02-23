@@ -75,4 +75,4 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 Feel free to fork, modify, or submit pull requests! Suggestions for features or bug fixes are welcome.
 
 ---
-Built on 22nd February, 2025.
+Initially built on 22nd February, 2025.
